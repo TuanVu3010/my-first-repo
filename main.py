@@ -1,2 +1,2 @@
-printf("Hello Git")
+print("Hello Git")
 print("Xin chao, Git!")
